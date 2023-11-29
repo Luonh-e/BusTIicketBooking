@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560817759937",
+    "project_id": "busticketbooking-dee4c",
+    "storage_bucket": "busticketbooking-dee4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560817759937:android:980fe65731243908cc9640",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA02_s4FctDuomB7D9FHW2RBsOmXzYl5hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
